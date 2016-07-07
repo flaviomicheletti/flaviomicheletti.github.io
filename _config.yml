@@ -1,1 +1,12 @@
 permalink: pretty
+
+menus:
+  - menu:
+    url:   /projetos/
+    label: Projetos
+  - menu:
+    url:   /codigos/
+    label: Códigos
+  - menu:
+    url:   /contato/
+    label: Contato
