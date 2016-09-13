@@ -88,12 +88,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 34674932,
@@ -181,12 +176,7 @@
     "forks": 0,
     "open_issues": 3,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 12493685,
@@ -274,105 +264,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
-  },
-  {
-    "id": 57052998,
-    "name": "codinome",
-    "full_name": "flaviomicheletti/codinome",
-    "owner": {
-      "login": "flaviomicheletti",
-      "id": 1257048,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1257048?v=3",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/flaviomicheletti",
-      "html_url": "https://github.com/flaviomicheletti",
-      "followers_url": "https://api.github.com/users/flaviomicheletti/followers",
-      "following_url": "https://api.github.com/users/flaviomicheletti/following{/other_user}",
-      "gists_url": "https://api.github.com/users/flaviomicheletti/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/flaviomicheletti/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/flaviomicheletti/subscriptions",
-      "organizations_url": "https://api.github.com/users/flaviomicheletti/orgs",
-      "repos_url": "https://api.github.com/users/flaviomicheletti/repos",
-      "events_url": "https://api.github.com/users/flaviomicheletti/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/flaviomicheletti/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "private": false,
-    "html_url": "https://github.com/flaviomicheletti/codinome",
-    "description": "[draft PHP] O maior sistma do mundo",
-    "fork": false,
-    "url": "https://api.github.com/repos/flaviomicheletti/codinome",
-    "forks_url": "https://api.github.com/repos/flaviomicheletti/codinome/forks",
-    "keys_url": "https://api.github.com/repos/flaviomicheletti/codinome/keys{/key_id}",
-    "collaborators_url": "https://api.github.com/repos/flaviomicheletti/codinome/collaborators{/collaborator}",
-    "teams_url": "https://api.github.com/repos/flaviomicheletti/codinome/teams",
-    "hooks_url": "https://api.github.com/repos/flaviomicheletti/codinome/hooks",
-    "issue_events_url": "https://api.github.com/repos/flaviomicheletti/codinome/issues/events{/number}",
-    "events_url": "https://api.github.com/repos/flaviomicheletti/codinome/events",
-    "assignees_url": "https://api.github.com/repos/flaviomicheletti/codinome/assignees{/user}",
-    "branches_url": "https://api.github.com/repos/flaviomicheletti/codinome/branches{/branch}",
-    "tags_url": "https://api.github.com/repos/flaviomicheletti/codinome/tags",
-    "blobs_url": "https://api.github.com/repos/flaviomicheletti/codinome/git/blobs{/sha}",
-    "git_tags_url": "https://api.github.com/repos/flaviomicheletti/codinome/git/tags{/sha}",
-    "git_refs_url": "https://api.github.com/repos/flaviomicheletti/codinome/git/refs{/sha}",
-    "trees_url": "https://api.github.com/repos/flaviomicheletti/codinome/git/trees{/sha}",
-    "statuses_url": "https://api.github.com/repos/flaviomicheletti/codinome/statuses/{sha}",
-    "languages_url": "https://api.github.com/repos/flaviomicheletti/codinome/languages",
-    "stargazers_url": "https://api.github.com/repos/flaviomicheletti/codinome/stargazers",
-    "contributors_url": "https://api.github.com/repos/flaviomicheletti/codinome/contributors",
-    "subscribers_url": "https://api.github.com/repos/flaviomicheletti/codinome/subscribers",
-    "subscription_url": "https://api.github.com/repos/flaviomicheletti/codinome/subscription",
-    "commits_url": "https://api.github.com/repos/flaviomicheletti/codinome/commits{/sha}",
-    "git_commits_url": "https://api.github.com/repos/flaviomicheletti/codinome/git/commits{/sha}",
-    "comments_url": "https://api.github.com/repos/flaviomicheletti/codinome/comments{/number}",
-    "issue_comment_url": "https://api.github.com/repos/flaviomicheletti/codinome/issues/comments{/number}",
-    "contents_url": "https://api.github.com/repos/flaviomicheletti/codinome/contents/{+path}",
-    "compare_url": "https://api.github.com/repos/flaviomicheletti/codinome/compare/{base}...{head}",
-    "merges_url": "https://api.github.com/repos/flaviomicheletti/codinome/merges",
-    "archive_url": "https://api.github.com/repos/flaviomicheletti/codinome/{archive_format}{/ref}",
-    "downloads_url": "https://api.github.com/repos/flaviomicheletti/codinome/downloads",
-    "issues_url": "https://api.github.com/repos/flaviomicheletti/codinome/issues{/number}",
-    "pulls_url": "https://api.github.com/repos/flaviomicheletti/codinome/pulls{/number}",
-    "milestones_url": "https://api.github.com/repos/flaviomicheletti/codinome/milestones{/number}",
-    "notifications_url": "https://api.github.com/repos/flaviomicheletti/codinome/notifications{?since,all,participating}",
-    "labels_url": "https://api.github.com/repos/flaviomicheletti/codinome/labels{/name}",
-    "releases_url": "https://api.github.com/repos/flaviomicheletti/codinome/releases{/id}",
-    "deployments_url": "https://api.github.com/repos/flaviomicheletti/codinome/deployments",
-    "created_at": "2016-04-25T15:25:00Z",
-    "updated_at": "2016-05-25T20:06:18Z",
-    "pushed_at": "2016-04-25T15:52:13Z",
-    "git_url": "git://github.com/flaviomicheletti/codinome.git",
-    "ssh_url": "git@github.com:flaviomicheletti/codinome.git",
-    "clone_url": "https://github.com/flaviomicheletti/codinome.git",
-    "svn_url": "https://github.com/flaviomicheletti/codinome",
-    "homepage": "",
-    "size": 1,
-    "stargazers_count": 0,
-    "watchers_count": 0,
-    "language": null,
-    "has_issues": true,
-    "has_downloads": true,
-    "has_wiki": true,
-    "has_pages": false,
-    "forks_count": 0,
-    "mirror_url": null,
-    "open_issues_count": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 53974112,
@@ -460,12 +352,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 7666037,
@@ -553,12 +440,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 39790662,
@@ -640,18 +522,101 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 6,
+    "forks_count": 7,
     "mirror_url": null,
     "open_issues_count": 0,
-    "forks": 6,
+    "forks": 7,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
+  },
+  {
+    "id": 68140453,
+    "name": "drafts",
+    "full_name": "flaviomicheletti/drafts",
+    "owner": {
+      "login": "flaviomicheletti",
+      "id": 1257048,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1257048?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/flaviomicheletti",
+      "html_url": "https://github.com/flaviomicheletti",
+      "followers_url": "https://api.github.com/users/flaviomicheletti/followers",
+      "following_url": "https://api.github.com/users/flaviomicheletti/following{/other_user}",
+      "gists_url": "https://api.github.com/users/flaviomicheletti/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/flaviomicheletti/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/flaviomicheletti/subscriptions",
+      "organizations_url": "https://api.github.com/users/flaviomicheletti/orgs",
+      "repos_url": "https://api.github.com/users/flaviomicheletti/repos",
+      "events_url": "https://api.github.com/users/flaviomicheletti/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/flaviomicheletti/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "private": false,
+    "html_url": "https://github.com/flaviomicheletti/drafts",
+    "description": "rascunho!",
+    "fork": false,
+    "url": "https://api.github.com/repos/flaviomicheletti/drafts",
+    "forks_url": "https://api.github.com/repos/flaviomicheletti/drafts/forks",
+    "keys_url": "https://api.github.com/repos/flaviomicheletti/drafts/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/flaviomicheletti/drafts/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/flaviomicheletti/drafts/teams",
+    "hooks_url": "https://api.github.com/repos/flaviomicheletti/drafts/hooks",
+    "issue_events_url": "https://api.github.com/repos/flaviomicheletti/drafts/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/flaviomicheletti/drafts/events",
+    "assignees_url": "https://api.github.com/repos/flaviomicheletti/drafts/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/flaviomicheletti/drafts/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/flaviomicheletti/drafts/tags",
+    "blobs_url": "https://api.github.com/repos/flaviomicheletti/drafts/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/flaviomicheletti/drafts/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/flaviomicheletti/drafts/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/flaviomicheletti/drafts/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/flaviomicheletti/drafts/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/flaviomicheletti/drafts/languages",
+    "stargazers_url": "https://api.github.com/repos/flaviomicheletti/drafts/stargazers",
+    "contributors_url": "https://api.github.com/repos/flaviomicheletti/drafts/contributors",
+    "subscribers_url": "https://api.github.com/repos/flaviomicheletti/drafts/subscribers",
+    "subscription_url": "https://api.github.com/repos/flaviomicheletti/drafts/subscription",
+    "commits_url": "https://api.github.com/repos/flaviomicheletti/drafts/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/flaviomicheletti/drafts/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/flaviomicheletti/drafts/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/flaviomicheletti/drafts/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/flaviomicheletti/drafts/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/flaviomicheletti/drafts/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/flaviomicheletti/drafts/merges",
+    "archive_url": "https://api.github.com/repos/flaviomicheletti/drafts/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/flaviomicheletti/drafts/downloads",
+    "issues_url": "https://api.github.com/repos/flaviomicheletti/drafts/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/flaviomicheletti/drafts/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/flaviomicheletti/drafts/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/flaviomicheletti/drafts/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/flaviomicheletti/drafts/labels{/name}",
+    "releases_url": "https://api.github.com/repos/flaviomicheletti/drafts/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/flaviomicheletti/drafts/deployments",
+    "created_at": "2016-09-13T19:30:13Z",
+    "updated_at": "2016-09-13T19:36:19Z",
+    "pushed_at": "2016-09-13T19:36:18Z",
+    "git_url": "git://github.com/flaviomicheletti/drafts.git",
+    "ssh_url": "git@github.com:flaviomicheletti/drafts.git",
+    "clone_url": "https://github.com/flaviomicheletti/drafts.git",
+    "svn_url": "https://github.com/flaviomicheletti/drafts",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "PHP",
+    "has_issues": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "master"
   },
   {
     "id": 35154780,
@@ -739,12 +704,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 59691540,
@@ -832,12 +792,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 24424465,
@@ -864,7 +819,7 @@
     },
     "private": false,
     "html_url": "https://github.com/flaviomicheletti/flaviomicheletti.github.io",
-    "description": "Era para ser meu portifólio, por enquanto será meu extenso blog",
+    "description": "Meu portifólio!",
     "fork": false,
     "url": "https://api.github.com/repos/flaviomicheletti/flaviomicheletti.github.io",
     "forks_url": "https://api.github.com/repos/flaviomicheletti/flaviomicheletti.github.io/forks",
@@ -904,17 +859,17 @@
     "releases_url": "https://api.github.com/repos/flaviomicheletti/flaviomicheletti.github.io/releases{/id}",
     "deployments_url": "https://api.github.com/repos/flaviomicheletti/flaviomicheletti.github.io/deployments",
     "created_at": "2014-09-24T17:12:08Z",
-    "updated_at": "2016-05-25T20:03:27Z",
-    "pushed_at": "2016-07-06T13:31:53Z",
+    "updated_at": "2016-08-25T16:00:22Z",
+    "pushed_at": "2016-09-05T12:25:52Z",
     "git_url": "git://github.com/flaviomicheletti/flaviomicheletti.github.io.git",
     "ssh_url": "git@github.com:flaviomicheletti/flaviomicheletti.github.io.git",
     "clone_url": "https://github.com/flaviomicheletti/flaviomicheletti.github.io.git",
     "svn_url": "https://github.com/flaviomicheletti/flaviomicheletti.github.io",
     "homepage": "",
-    "size": 4309,
+    "size": 5179,
     "stargazers_count": 0,
     "watchers_count": 0,
-    "language": "CSS",
+    "language": "HTML",
     "has_issues": true,
     "has_downloads": true,
     "has_wiki": true,
@@ -925,12 +880,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 9321786,
@@ -957,7 +907,7 @@
     },
     "private": false,
     "html_url": "https://github.com/flaviomicheletti/fulia",
-    "description": "[JS + PHP] Um projeto(inho) experimental",
+    "description": "Software experimental",
     "fork": false,
     "url": "https://api.github.com/repos/flaviomicheletti/fulia",
     "forks_url": "https://api.github.com/repos/flaviomicheletti/fulia/forks",
@@ -997,14 +947,14 @@
     "releases_url": "https://api.github.com/repos/flaviomicheletti/fulia/releases{/id}",
     "deployments_url": "https://api.github.com/repos/flaviomicheletti/fulia/deployments",
     "created_at": "2013-04-09T13:22:06Z",
-    "updated_at": "2016-05-25T20:07:49Z",
-    "pushed_at": "2016-02-29T14:23:13Z",
+    "updated_at": "2016-08-31T15:20:03Z",
+    "pushed_at": "2016-09-06T14:13:21Z",
     "git_url": "git://github.com/flaviomicheletti/fulia.git",
     "ssh_url": "git@github.com:flaviomicheletti/fulia.git",
     "clone_url": "https://github.com/flaviomicheletti/fulia.git",
     "svn_url": "https://github.com/flaviomicheletti/fulia",
     "homepage": "http://fulia.devfuria.com.br/",
-    "size": 252,
+    "size": 267,
     "stargazers_count": 1,
     "watchers_count": 1,
     "language": "PHP",
@@ -1018,12 +968,7 @@
     "forks": 1,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 38117299,
@@ -1111,12 +1056,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 18451161,
@@ -1204,12 +1144,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 39374035,
@@ -1297,12 +1232,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 22063919,
@@ -1390,12 +1320,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 2,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 59693173,
@@ -1483,12 +1408,7 @@
     "forks": 1,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   },
   {
     "id": 9321699,
@@ -1576,11 +1496,6 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "master",
-    "permissions": {
-      "admin": true,
-      "push": true,
-      "pull": true
-    }
+    "default_branch": "master"
   }
 ]

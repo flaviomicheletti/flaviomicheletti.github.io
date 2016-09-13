@@ -67,31 +67,31 @@
     "releases_url": "https://api.github.com/repos/devfuria/devfuria.com.br.conteudo/releases{/id}",
     "deployments_url": "https://api.github.com/repos/devfuria/devfuria.com.br.conteudo/deployments",
     "created_at": "2012-10-25T18:33:22Z",
-    "updated_at": "2016-04-27T11:35:34Z",
-    "pushed_at": "2016-06-28T17:26:28Z",
+    "updated_at": "2016-07-28T20:29:11Z",
+    "pushed_at": "2016-09-12T17:08:29Z",
     "git_url": "git://github.com/devfuria/devfuria.com.br.conteudo.git",
     "ssh_url": "git@github.com:devfuria/devfuria.com.br.conteudo.git",
     "clone_url": "https://github.com/devfuria/devfuria.com.br.conteudo.git",
     "svn_url": "https://github.com/devfuria/devfuria.com.br.conteudo",
     "homepage": "www.devfuria.com.br",
-    "size": 111597,
-    "stargazers_count": 8,
-    "watchers_count": 8,
+    "size": 113784,
+    "stargazers_count": 9,
+    "watchers_count": 9,
     "language": "HTML",
     "has_issues": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 6,
+    "forks_count": 5,
     "mirror_url": null,
     "open_issues_count": 3,
-    "forks": 6,
+    "forks": 5,
     "open_issues": 3,
-    "watchers": 8,
+    "watchers": 9,
     "default_branch": "master",
     "permissions": {
-      "admin": true,
-      "push": true,
+      "admin": false,
+      "push": false,
       "pull": true
     }
   },
@@ -160,14 +160,14 @@
     "releases_url": "https://api.github.com/repos/devfuria/canvas-exemplos/releases{/id}",
     "deployments_url": "https://api.github.com/repos/devfuria/canvas-exemplos/deployments",
     "created_at": "2014-04-29T17:13:49Z",
-    "updated_at": "2015-07-25T18:05:37Z",
-    "pushed_at": "2015-09-22T19:40:34Z",
+    "updated_at": "2016-09-08T16:58:44Z",
+    "pushed_at": "2016-09-08T17:00:11Z",
     "git_url": "git://github.com/devfuria/canvas-exemplos.git",
     "ssh_url": "git@github.com:devfuria/canvas-exemplos.git",
     "clone_url": "https://github.com/devfuria/canvas-exemplos.git",
     "svn_url": "https://github.com/devfuria/canvas-exemplos",
     "homepage": "",
-    "size": 488,
+    "size": 309,
     "stargazers_count": 1,
     "watchers_count": 1,
     "language": "JavaScript",
@@ -183,8 +183,8 @@
     "watchers": 1,
     "default_branch": "master",
     "permissions": {
-      "admin": true,
-      "push": true,
+      "admin": false,
+      "push": false,
       "pull": true
     }
   },
@@ -254,13 +254,13 @@
     "deployments_url": "https://api.github.com/repos/devfuria/javascript-exemplos/deployments",
     "created_at": "2014-06-05T13:45:37Z",
     "updated_at": "2016-02-01T13:00:03Z",
-    "pushed_at": "2015-09-10T18:11:40Z",
+    "pushed_at": "2016-09-08T16:38:48Z",
     "git_url": "git://github.com/devfuria/javascript-exemplos.git",
     "ssh_url": "git@github.com:devfuria/javascript-exemplos.git",
     "clone_url": "https://github.com/devfuria/javascript-exemplos.git",
     "svn_url": "https://github.com/devfuria/javascript-exemplos",
     "homepage": "",
-    "size": 203,
+    "size": 21,
     "stargazers_count": 1,
     "watchers_count": 1,
     "language": "JavaScript",
@@ -276,8 +276,8 @@
     "watchers": 1,
     "default_branch": "master",
     "permissions": {
-      "admin": true,
-      "push": true,
+      "admin": false,
+      "push": false,
       "pull": true
     }
   },
@@ -369,8 +369,8 @@
     "watchers": 0,
     "default_branch": "master",
     "permissions": {
-      "admin": true,
-      "push": true,
+      "admin": false,
+      "push": false,
       "pull": true
     }
   },
@@ -439,14 +439,14 @@
     "releases_url": "https://api.github.com/repos/devfuria/python-exemplos/releases{/id}",
     "deployments_url": "https://api.github.com/repos/devfuria/python-exemplos/deployments",
     "created_at": "2014-08-19T19:21:39Z",
-    "updated_at": "2015-07-29T17:53:00Z",
-    "pushed_at": "2015-07-29T18:05:06Z",
+    "updated_at": "2016-09-08T16:48:58Z",
+    "pushed_at": "2016-09-08T16:48:58Z",
     "git_url": "git://github.com/devfuria/python-exemplos.git",
     "ssh_url": "git@github.com:devfuria/python-exemplos.git",
     "clone_url": "https://github.com/devfuria/python-exemplos.git",
     "svn_url": "https://github.com/devfuria/python-exemplos",
     "homepage": "",
-    "size": 524,
+    "size": 284,
     "stargazers_count": 0,
     "watchers_count": 0,
     "language": "HTML",
@@ -462,8 +462,8 @@
     "watchers": 0,
     "default_branch": "master",
     "permissions": {
-      "admin": true,
-      "push": true,
+      "admin": false,
+      "push": false,
       "pull": true
     }
   },
@@ -555,8 +555,8 @@
     "watchers": 0,
     "default_branch": "master",
     "permissions": {
-      "admin": true,
-      "push": true,
+      "admin": false,
+      "push": false,
       "pull": true
     }
   },
@@ -625,16 +625,16 @@
     "releases_url": "https://api.github.com/repos/devfuria/php-exemplos/releases{/id}",
     "deployments_url": "https://api.github.com/repos/devfuria/php-exemplos/deployments",
     "created_at": "2014-10-08T11:27:15Z",
-    "updated_at": "2015-12-15T01:42:06Z",
-    "pushed_at": "2014-10-08T12:58:52Z",
+    "updated_at": "2016-07-07T20:20:51Z",
+    "pushed_at": "2016-09-08T16:37:59Z",
     "git_url": "git://github.com/devfuria/php-exemplos.git",
     "ssh_url": "git@github.com:devfuria/php-exemplos.git",
     "clone_url": "https://github.com/devfuria/php-exemplos.git",
     "svn_url": "https://github.com/devfuria/php-exemplos",
     "homepage": "",
-    "size": 156,
-    "stargazers_count": 1,
-    "watchers_count": 1,
+    "size": 10,
+    "stargazers_count": 0,
+    "watchers_count": 0,
     "language": "PHP",
     "has_issues": true,
     "has_downloads": true,
@@ -645,11 +645,11 @@
     "open_issues_count": 0,
     "forks": 6,
     "open_issues": 0,
-    "watchers": 1,
+    "watchers": 0,
     "default_branch": "master",
     "permissions": {
-      "admin": true,
-      "push": true,
+      "admin": false,
+      "push": false,
       "pull": true
     }
   },
@@ -718,17 +718,17 @@
     "releases_url": "https://api.github.com/repos/devfuria/html-css-exemplos/releases{/id}",
     "deployments_url": "https://api.github.com/repos/devfuria/html-css-exemplos/deployments",
     "created_at": "2014-10-08T19:32:05Z",
-    "updated_at": "2015-03-04T17:38:10Z",
-    "pushed_at": "2014-10-08T19:49:58Z",
+    "updated_at": "2016-09-08T16:45:43Z",
+    "pushed_at": "2016-09-08T16:46:55Z",
     "git_url": "git://github.com/devfuria/html-css-exemplos.git",
     "ssh_url": "git@github.com:devfuria/html-css-exemplos.git",
     "clone_url": "https://github.com/devfuria/html-css-exemplos.git",
     "svn_url": "https://github.com/devfuria/html-css-exemplos",
     "homepage": "",
-    "size": 120,
+    "size": 12,
     "stargazers_count": 0,
     "watchers_count": 0,
-    "language": null,
+    "language": "HTML",
     "has_issues": true,
     "has_downloads": true,
     "has_wiki": true,
@@ -741,8 +741,8 @@
     "watchers": 0,
     "default_branch": "master",
     "permissions": {
-      "admin": true,
-      "push": true,
+      "admin": false,
+      "push": false,
       "pull": true
     }
   },
@@ -834,8 +834,8 @@
     "watchers": 0,
     "default_branch": "master",
     "permissions": {
-      "admin": true,
-      "push": true,
+      "admin": false,
+      "push": false,
       "pull": true
     }
   },
@@ -927,8 +927,8 @@
     "watchers": 3,
     "default_branch": "master",
     "permissions": {
-      "admin": true,
-      "push": true,
+      "admin": false,
+      "push": false,
       "pull": true
     }
   },
@@ -1020,8 +1020,8 @@
     "watchers": 0,
     "default_branch": "master",
     "permissions": {
-      "admin": true,
-      "push": true,
+      "admin": false,
+      "push": false,
       "pull": true
     }
   },
@@ -1091,13 +1091,13 @@
     "deployments_url": "https://api.github.com/repos/devfuria/devfuria.com.br.estrutura/deployments",
     "created_at": "2015-11-25T18:21:47Z",
     "updated_at": "2016-04-27T11:35:13Z",
-    "pushed_at": "2016-06-01T14:09:47Z",
+    "pushed_at": "2016-09-12T17:08:55Z",
     "git_url": "git://github.com/devfuria/devfuria.com.br.estrutura.git",
     "ssh_url": "git@github.com:devfuria/devfuria.com.br.estrutura.git",
     "clone_url": "https://github.com/devfuria/devfuria.com.br.estrutura.git",
     "svn_url": "https://github.com/devfuria/devfuria.com.br.estrutura",
     "homepage": null,
-    "size": 21,
+    "size": 28,
     "stargazers_count": 0,
     "watchers_count": 0,
     "language": "PHP",
@@ -1113,8 +1113,8 @@
     "watchers": 0,
     "default_branch": "master",
     "permissions": {
-      "admin": true,
-      "push": true,
+      "admin": false,
+      "push": false,
       "pull": true
     }
   }
