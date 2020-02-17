@@ -1,6 +1,4 @@
-Meu portifólio
-===
+# Meu portifólio
 
-[flaviomicheletti.github.io](https://flaviomicheletti.github.io/)
-
-Utilizando [jekyll](http://jekyllrb.com/)
+- [portiofilo](https://devfuria.com.br/portiofilo)
+- [linkedin](https://www.linkedin.com/in/flaviomicheletti/)
