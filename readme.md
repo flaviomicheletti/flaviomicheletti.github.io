@@ -1,5 +1,5 @@
 # Meu portifólio
 
 - [overview](https://github.com/flaviomicheletti)
-- [portifolio](http://devfuria.com.br/portifolio)
+- [portifolio](https://flaviomicheletti.github.io/)
 - [linkedin](https://www.linkedin.com/in/flaviomicheletti/)
