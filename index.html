@@ -18,6 +18,65 @@
       href="https://fonts.googleapis.com/css?family=Anton|Archivo+Black|Bevan|Corben:700|Covered+By+Your+Grace|Crimson+Text|Didact+Gothic|Graduate|Karla|Pacifico|Roboto+Mono|Rubik+Mono+One|Stint+Ultra+Expanded|UnifrakturCook:700|Yellowtail"
       rel="stylesheet">
    <title>Flávio Micheletti</title>
+   <style>
+      .section-link {
+         font-size: 2.6rem;
+         font-weight: bold;
+         display: inline-flex;
+         flex-wrap: wrap;
+         align-items: baseline;
+         gap: 0.6rem;
+         text-transform: none;
+         transition: color 0.2s ease;
+      }
+
+      .section-link:hover {
+         color: #3897f0 !important;
+         text-decoration: none;
+      }
+
+      .section-link-title {
+         text-transform: uppercase;
+      }
+
+      .section-link-note {
+         font-size: 1.35rem;
+         font-weight: normal;
+         color: #666;
+         transition: color 0.2s ease;
+      }
+
+      .section-link:hover .section-link-note {
+         color: #3897f0;
+      }
+
+      .section-link svg {
+         width: 1em;
+         height: 1em;
+         align-self: center;
+         flex-shrink: 0;
+         fill: currentColor;
+         opacity: 0.75;
+         transition: transform 0.2s ease, opacity 0.2s ease;
+      }
+
+      .section-link:hover svg {
+         opacity: 1;
+      }
+
+      .section-link--external:hover svg {
+         transform: translate(2px, -2px);
+      }
+
+      .section-link--internal svg {
+         opacity: 0.55;
+      }
+
+      .section-link--internal:hover svg {
+         opacity: 1;
+         transform: translateX(4px);
+      }
+   </style>
 </head>
 
 <body>
@@ -45,10 +104,36 @@
                </p>
                <div class="artist-section">
                   <header>
-                     <h2><a href="http://www.devfuria.com.br/" target="_blank">DevFuria (website)</a></h2>
+                     <h2>
+                        <a class="section-link section-link--external" href="http://www.devfuria.com.br/" target="_blank" rel="noopener noreferrer">
+                           <span class="section-link-title">1) DevFuria</span>
+                           <span class="section-link-note">Opens in a new tab</span>
+                           <svg viewBox="0 0 24 24" aria-hidden="true">
+                              <path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3z"></path>
+                              <path d="M5 5h6V3H3v8h2V5z"></path>
+                           </svg>
+                        </a>
+                     </h2>
                      <p>
-                        The devfuria project has been in the air since 2012, it is an initiative with the objective of
+                        The <b>website devfuria project</b> has been in the air since 2012, it is an initiative with the objective of
                         helping other developers to prepare themselves for the software development job market.
+                     </p>
+                  </header>
+               </div>
+               <div class="artist-section">
+                  <header>
+                     <h2>
+                        <a class="section-link section-link--internal" href="global-conversations.html">
+                           <span class="section-link-title">2) English Around the World</span>
+                           <span class="section-link-note">Opens on this site</span>
+                           <svg viewBox="0 0 24 24" aria-hidden="true">
+                              <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
+                           </svg>
+                        </a>
+                     </h2>
+                     <p>
+                        A list of <b>45 countries</b> where I've had conversations in English — online
+                        connections that turned into real friendships across cultures.
                      </p>
                   </header>
                </div>
